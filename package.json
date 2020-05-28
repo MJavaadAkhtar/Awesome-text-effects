@@ -1,0 +1,35 @@
+{
+  "name": "awesome-text-effects",
+  "version": "0.0.4",
+  "description": "A text effect library for React Users",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "css-loader": "^3.5.3",
+    "node-sass": "^4.14.1",
+    "react": "^15.5.4",
+    "sass-loader": "^7.3.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Javaad Akhtar",
+    "email": "mj.akhtar@outlook.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
