@@ -12,8 +12,8 @@ Awesome-text-effects comes with two primary components. First one is for Text Ef
 ```html
 import { TextHover, TextEffect } from 'awesome-text-effects'
 <TextHover text={[
-              "kokoko ada",
-              "new element"
+              "This is a new text",
+              "This is a second element"
             ]}
             type="1"
             name="PopOut" />
